@@ -1,6 +1,6 @@
 # Paddy Doctor: Paddy Disease Classification
 
--First approach is quickly iterating from scratch using Pytorch and resnet26d.    
+# - # First approach is quickly iterating from scratch using Pytorch and resnet26d.    
 # 0.7 # 
 
 -Second approach is using Fastai API to make the process quicker and resnet50: ##SCORE:## #0.7#
